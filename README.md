@@ -1,3 +1,12 @@
+# Fork note
+This is fork is configured for an Ender-5 using:
+
+- BTT SKR Mini E3 motherboard
+- BLTouch / 3DTouch bed levelling
+- Hero Me Gen 5 probe offsets
+- BMG direct drive extruder
+- Dragon hotend
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
