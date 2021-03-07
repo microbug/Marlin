@@ -654,7 +654,7 @@
 //#define SENSORLESS_BACKOFF_MM  { 2, 2 }     // (mm) Backoff from endstops before sensorless homing
 
 #define HOMING_BUMP_MM      { 5, 5, 2 }       // (mm) Backoff from endstops after first bump
-#define HOMING_BUMP_DIVISOR { 4, 4, 15 }       // Re-Bump Speed Divisor (Divides the Homing Feedrate)
+#define HOMING_BUMP_DIVISOR { 4, 4, 40 }       // Re-Bump Speed Divisor (Divides the Homing Feedrate)
 // ^ calculated so that the 'slow' speed is the Marlin default, but
 // the fast one is 2x faster for X/Y and 3x for Z.
 
